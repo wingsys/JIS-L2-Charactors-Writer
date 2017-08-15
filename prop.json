@@ -1,0 +1,10 @@
+{
+  "fonts": "/data/fonts/*",
+  "output_dir": "/data/output",
+  "charfile": "/data/JIS-L2.txt",
+  "size": {
+    "height": 50,
+    "width": 50,
+    "font": 50
+  }
+}
