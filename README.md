@@ -13,6 +13,7 @@
 ## 使い方
 prop.jsonへ必要事項 (fonts/書き出しフォント、output_dir/出力先ディレクトリ、charfile/文字ファイル、size/出力のサイズ情報) を現行のものを参考に記述の上、以下の要領で実行します。
 > python script.py prop.json
+
 1フォントあたり6284ファイルが生成されます。
 
 ## 現状の問題
