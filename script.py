@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 import json
 from glob import glob
-from collections import namedtuple
 from itertools import product
 from sys import argv
 from PIL import Image, ImageDraw, ImageFont
+
 
 def write(char: str, font: ImageFont.FreeTypeFont):
     canvas = Image.new("L", (prop["size"]["width"], prop["size"]["height"]), 255) # grayscale, white bg

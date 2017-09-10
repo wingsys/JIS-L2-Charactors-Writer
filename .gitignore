@@ -141,3 +141,6 @@ $RECYCLE.BIN/
 # for test dir
 fonts/
 output/
+
+# PyCharm
+.idea/
